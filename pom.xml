@@ -70,6 +70,7 @@
     <log4j.version>2.8.2</log4j.version>
     <rxjava.version>2.2.8</rxjava.version>
     <api.comparison.version>5.0</api.comparison.version>
+    <project.build.outputTimestamp>2021-01-09T21:58:00Z</project.build.outputTimestamp>
   </properties>
 
   <dependencyManagement>
